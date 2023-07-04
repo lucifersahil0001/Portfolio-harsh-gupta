@@ -9,6 +9,7 @@ import {
   DiPython,
   DiGit,
   DiJava,
+  
 } from "react-icons/di";
 import {
   SiRedis,
@@ -16,7 +17,14 @@ import {
   SiNextdotjs,
   SiSolidity,
   SiPostgresql,
+  SiRedux,
 } from "react-icons/si";
+import {
+  AiFillHtml5
+} from "react-icons/ai"
+
+
+
 import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
@@ -29,10 +37,10 @@ function Techstack() {
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <TbBrandGolang />
+        <AiFillHtml5 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+        <SiRedux />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
