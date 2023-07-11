@@ -47,10 +47,10 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="Gym Project"
+              description="Welcome to our state-of-the-art gym website where fitness meets innovation! We offer a dynamic online platform built with React and JavaScript, providing you with an immersive fitness experience right from the comfort of your home Discover a wide range of workout programs, personalized training plans, and expert guidance from certified trainers. Track your progress, set goals, and engage with a vibrant fitness community. With our user-friendly interface and cutting-edge features, achieving your fitness goals has never been easier. Join us on this exciting fitness journey and unlock your full potential today!"
+              ghLink="https://github.com/lucifersahil0001/shakti-gym.git"
+              demoLink="https://gymwebsiteportfilo-newgym-qxjjzds09-lucifersahil0001.vercel.app/"              
             />
           </Col>
 
